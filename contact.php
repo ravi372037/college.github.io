@@ -1,0 +1,168 @@
+
+<html>
+      <head>
+          <link rel="stylesheet" href="css/bootstrap.min.css"/>
+          <link rel="stylesheet" href="css/fontawesome.css"/>
+          <link rel="stylesheet" href="css/fontawesome.min.css"/>
+          <link rel="stylesheet" href="css/aos.css"/>
+          <link rel="stylesheet" href="css/hover-min.css"/>
+          <link rel="stylesheet" href="css/index.css"/>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+         
+          <script src="js/jquery.js"></script>
+          <script src="js/bootstrap.min.js"></script>
+          <script src="js/jquery.min.js"></script>
+          <script src="js/counterup.min.js"></script>
+          <script src="js/owl.carousel.min.js"></script>
+          <script src="js/aos.js"></script>
+          <script src="js/main.js"></script>
+  </head>
+  <body>
+      <div class="container-fluid">
+          <div class="row">
+              <div class="col-md-12" style="min-height: 25px; border-bottom: 2px dotted #CC292D;">
+                  <div class="row">
+                    <div class="col-md-1"></div>
+                    <div class="col-md-2 ic"><i class="fa fa-map-marker "></i><span> example@mail.com</span></div>
+              
+                    <div class="col-md-2 ic"><i class="fa fa-phone fa-spin" ></i><span> 7351000033</span></div>
+  
+                      <div class="col-md-7">
+                        <marquee behavior="alternate" ><span id="onmgmt" >Online College Management System</span></marquee>
+                      </div>
+
+                  </div>
+              </div>
+            </div>
+          <!--Nav bar-->
+          <div class="row">
+              <div class="col-md-2 nav1" data-aos="fade-right">
+                  <center>
+                      <img src="img/GP1.png" class="img img-responsive hvr-buzz"  width="150" style="margin: 2px;"/>
+                  </center>
+              </div>
+              <div class="col-md-10 nav2">
+                  <div data-aos="zoom-in">
+                      <center>
+                          <h2 id="tit1"> GOVERNMENT POLYTECHNIC CHANGIPUR NOORUR(BIJNOR)</h2>
+                          <h2 id="tit2">राजकीय पॉलिटेक्निक चांगीपुर नूरपुर(बिजनौर)</h2>
+                        </center>
+                  </div>
+              </div>
+          </div>
+          <!--Menu bar-->
+          <div class="row" data-aos="fade-right">
+            
+                  <nav class="navbar navbar-default" style="background: rgb(24, 100, 100);">
+                      <div class="container-fluid" style="min-height: 50px;">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header">
+                         <a class="navbar-brand hvr-float hvr-icon-pulse-grow" id="h"  href="index.php">Home</a>
+                        </div>
+                         
+                      </div><!-- /.container-fluid -->
+                  </nav>   
+          </div>
+
+          <!--Login Section-->
+          
+          <div class="row" data-aos="fade-left">
+              <div class="col-md-1"></div>
+              <div class="col-md-10 hvr hvr-trim" style=" background: rgb(24, 100, 100);"> <h1 style="text-align:center; color: wheat; text-shadow: 2px 0px 2px darkcyan;">Contact Us</h1></div>
+          </div>
+          <br>
+          <div class="row" data-aos="fade-right">
+              <div class="col-md-1"></div>
+              <div class="col-md-5">
+                  <div class="row" data-aos="fade-left">
+                      <div class="col-md-12 hr hvr-round-corners" style=" background: rgb(24, 100, 100);"><h2 style="color: wheat; text-align: center; text-shadow: 0px 3px 0px darkcyan;">Enqiry Form</h2></div>
+                  </div>
+                  <div class="row" style="background-color: lightyellow;">
+                      <div class="col-md-12" style="box-shadow: 2px 3px 2px 0px rgb(24, 100, 100);">
+                          <br>
+                          <label>1. Name :</label>
+                          <input type="text" class="form-control" placeholder="Enter Name">
+                          <br>
+                          <label>2. Email :</label>
+                          <input type="email" class="form-control" placeholder="Enter Email">
+                          <br>
+                          <label>3. mobile No :</label>
+                          <input type="text" class="form-control" placeholder="Enter Mobile No">
+                          <br>
+                          <label>Description :</label>
+                          <br>
+                          <textarea cols="60"></textarea>
+                          <center>
+                              <br>
+                          
+                              <tr>
+                                <td>
+                                  <button href="#" type="submit" class="btn btn-success"><span
+                                      class="glyphicon glyphicon-check"></span> Submit</button>
+                                </td>
+                                <td>
+                                  <button href="#" type="reset" class="btn  btn-danger"><span
+                                      class="glyphicon glyphicon-remove"></span> Clear</button>
+                                </td>
+                              </tr>
+                            
+                            </center>
+                            <br>
+                      </div>
+                  </div>
+              </div>
+              <div class="col-md-1"></div>
+              <div class="col-md-4">
+                <br>
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2982.345637236388!2d78.4406509!3d29.0994145!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ba5bc875d66ff%3A0x97081af3d221c0c!2sGov%20Polytechnic%20Changipur%20Noorpur%20Bijnor%20246727!5e1!3m2!1sen!2sin!4v1632971301022!5m2!1sen!2sin" height="400" width="450"  style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+              </div>
+              <div class="col-md-1"></div>
+          </div>
+                  <br>
+          
+          
+          <!--footer section-->
+          <div class="row" data-aos="fade-left">
+              <div class="col-md-12 footer" style="background-color:rgb(24, 100, 100);">
+               <div class="row">
+                 <div class="col-md-1"></div>
+                 <div class="col-md-3">
+                   <h3 style="color: white;">About Us</h3>
+                   <hr>
+                   <div>vdfjkkjdkjvnxnxn dvdkbxc nx nxj bh u9sdxk  nxl dv xlk diuvvsmn sjxb piu xn xnsijcnsiubvx,c vcjk niudhvdiu n</div>
+                 </div>
+                 <div class="col-md-1"></div>
+                 <div class="col-md-2">
+                  <h3 style="color: white;">Quick Links</h3>
+                  <hr>
+                  <a href="#" ><li style="color: white; text-decoration: none;">Course</li></a>
+                   <li style="color: white;">Our Faculty</li>
+                   <li style="color: white;">Register</li>
+                   <li style="color: white;">Contact Us</li>
+                 </div>
+                 <div class="col-md-1"></div>
+                 <div class="col-md-3">
+                  <h3 style="color: white;">Contact Info</h3>
+                  <hr>
+                  <i style="color: white; font-size: 20px;" class="fa fa-map-marker" aria-hidden="true"></i> <span class="coninfo" >&nbsp;&nbsp;Changipur,Noorpur,Bijnor(Uttar Pradesh)</span>
+                  <br>
+                  <br>
+                  <i style="color: white; font-size: 20px;" class="fa fa-phone" aria-hidden="true"></i> <span class="coninfo">&nbsp;&nbsp;1345 789 458</span>
+                  <br>
+                  <br>
+                  <i style="color: white; font-size: 20px;" class="fa fa-envelope-o" aria-hidden="true"></i> <span class="coninfo">&nbsp;&nbsp;gpchangipur@gmail.com</span>
+                 
+                </div>
+                 <div class="col-md-1"></div>
+               </div>
+               <br>
+               <div class="row">
+                 <div class="col-md-12" style="background: lightseagreen; min-height: 40px;">
+                    <p style="text-align: center; color: white; font-size: 15px; margin-top: 1%;"><i class="fa fa-copyright" aria-hidden="true"></i> 2021 | All Rights Reserved | Design by Team Nidhi</p>
+                 </div>
+               </div>
+              </div>
+          </div>
+      </div>
+  </body>
+</html>

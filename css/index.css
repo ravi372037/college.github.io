@@ -1,0 +1,139 @@
+.nav1
+{
+    min-height: 140px;
+    
+}
+.nav2
+{
+    min-height: 140px;
+    background: lightyellow;
+}
+
+.main
+{
+    height: auto;
+}
+.footer
+{
+    min-height: auto;
+    background:#CC292D;
+}
+#h
+{
+    color: white;
+}
+#h:hover
+{
+    color: #CC292D;
+    background: white;
+    
+    border: 1px solid #CC292D;
+}
+#h1
+{
+    color: white;
+    background: #CC292D;
+}
+#h1:hover
+{
+    color: #CC292D;
+    background: white;
+    border: 1px solid #CC292D;
+}
+#h2
+{
+    color: #CC292D;
+    background: white;
+}
+#h2:hover
+{
+    color: white;
+    background:#CC292D;
+    border: 1px solid white;
+    
+}
+#user
+{
+    font-size: 200px; 
+    color: #007B5F;
+}
+#user:hover
+{
+    background-color: #007B5F;
+    color: white;
+    border-radius: 45%;
+    
+}
+#fb
+{
+    font-size: 30px;
+    background-color:white;
+    color: blue;
+}
+
+#mail
+{
+    font-size: 30px;
+    color:red;
+    background-color: white;
+    margin-left: 10px;
+}
+.coninfo
+{
+    color: #e4dada;
+}
+.coninfo:hover
+{
+    color: white;
+}
+#tit1
+{
+    color: #CC292D;
+    padding-top: 5px; 
+    font-weight: 600;
+    
+}
+#tit1:hover
+{
+    color: yellow;
+    text-shadow: 0px 2px 2px #CC292D;
+}
+#tit2
+{
+    color: #CC292D; 
+    padding-top: 5px; 
+    font-weight: 500;
+}
+
+#tit2:hover
+{
+    color: #39a1f7;
+    text-shadow: 0px 2px 2px #0f0f6d;
+}
+#onmgmt
+{
+    font-size: 18px;
+    color: red;
+    position: relative;
+    animation-name: example;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes example {
+    0%   {color:red; text-shadow: 0px 1px 1px #CC292D; }
+    25%  {color:yellow; text-shadow: 0px 1px 1px #ffbc04; }
+    50%  {color:#00aeff;text-shadow: 0px 1px 1px #003cff;}
+    75%  {color:orange;text-shadow: 0px 1px 1px orangered;}
+    100%  {color:#22f022; text-shadow: 0px 1px 1px green; }
+    
+  }
+  .ic
+  {
+    font-size: 18px; 
+    color: #a7a4a4;
+  }
+  .ic:hover
+  {
+      color: #CC292D;
+  }
